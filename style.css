@@ -11,13 +11,6 @@
   /* Add other formats for broad browser support */
 }
 
-@font-face {
-  font-family: "Times New Roman";
-  src: url('fonts/times-new-roman.woff2') format('woff2'),
-       url('fonts/times-new-roman.woff') format('woff');
-  /* Add other formats for broad browser support */
-}
-
 /* ===== CSS VARIABLES ===== */
 :root {
     --clr-bg:          #f0f4f8;
